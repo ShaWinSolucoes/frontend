@@ -3,12 +3,11 @@
 export default function Selection() {
   return (
     <div>
-      {/* <h1>Safra Pocket</h1>
-
+      <h1>Safra Pocket</h1>
       <p>Com o Safra Pocket criar sua conta é muito fácil.</p>
 
       <p>Selecione a instituição com a qual deseja compartilhar informações com o Safra. </p>
-
+      <div>
       <form action="/action_page.php">
         <label for="Bancos">Escolha um banco:</label>
         <select name="Bancos" id="bancos">
@@ -17,14 +16,23 @@ export default function Selection() {
           <option value="Banco C">Banco C</option>
           <option value="Banco D">Banco D</option>
         </select>
-        <br><br>
+        <br></br>
           <input type="submit" value="Ir para o site da instituição">
             <input type="submit" value="Já Compartilhei minhas informações com o Safra">
             </form>
-
-
-
             <p>No site desta instituição você deve autorizar o compartilhamento de dados com o Safra.</p>
+      </div>
+
+     
+      
+      {/* 
+
+      
+
+      
+
+
+            
 
           </body>
         </html>
