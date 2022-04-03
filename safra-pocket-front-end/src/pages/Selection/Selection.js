@@ -8,7 +8,7 @@ export default function Selection() {
 
       <p>Selecione a instituição com a qual deseja compartilhar informações com o Safra. </p>
       <div>
-      <form action="/action_page.php">
+      {/* <form action="/action_page.php">
         <label for="Bancos">Escolha um banco:</label>
         <select name="Bancos" id="bancos">
           <option value="Banco A">Banco A</option>
@@ -19,7 +19,7 @@ export default function Selection() {
         <br></br>
           <input type="submit" value="Ir para o site da instituição">
             <input type="submit" value="Já Compartilhei minhas informações com o Safra">
-            </form>
+            </form> */}
             <p>No site desta instituição você deve autorizar o compartilhamento de dados com o Safra.</p>
       </div>
 

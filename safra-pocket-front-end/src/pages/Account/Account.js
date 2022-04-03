@@ -3,6 +3,7 @@
 export default function Account() {
     return (
       <div>
+        <h1>Account</h1>
           {/* <p>Já compartilhou seus dados com o Safra via Open Banking? Crie sua conta agora.</p>
 
 

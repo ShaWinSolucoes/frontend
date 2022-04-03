@@ -3,6 +3,7 @@
 export default function Bank() {
   return (
           <div>
+            <h1>bank</h1>
          {/* <h1>Banco X</h1>
     <p>
       Selecione as configurações para o compartilhamento de dados
